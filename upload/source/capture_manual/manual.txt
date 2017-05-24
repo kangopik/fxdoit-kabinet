@@ -1,0 +1,5 @@
+Capture seluruh tampilan website (Full Page Screen Capture) for Chrome
+https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl/related
+
+Keyword: Alt + Shift + P
+

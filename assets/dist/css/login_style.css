@@ -1,0 +1,111 @@
+@charset "UTF-8";
+@font-face { font-family: "proxima-nova-reg"; src: url("../../../assets/fonts/proxima-nova-reg-webfont.eot"); }
+@font-face { font-family: "proxima-nova-reg"; src: url("../../../assets/fonts/proxima-nova-reg-webfont.woff") format("woff"), url("../../../assets/fonts/proxima-nova-reg-webfont.html") format("truetype"); font-weight: normal; font-style: normal; }
+@font-face { font-family: "proxima-nova-light"; src: url("../../../assets/fonts/proxima-nova-light-webfont.eot"); }
+@font-face { font-family: "proxima-nova-light"; src: url("../../../assets/fonts/proxima-nova-light-webfont.woff") format("woff"), url("../../../assets/fonts/proxima-nova-light-webfont.html") format("truetype"); font-weight: normal; font-style: normal; }
+@font-face { font-family: "proxima-nova-bold"; src: url("../../../assets/fonts/proxima-nova-bold-webfont.eot"); }
+@font-face { font-family: "proxima-nova-bold"; src: url("../../../assets/fonts/proxima-nova-bold-webfont.woff") format("woff"), url("../../../assets/fonts/proxima-nova-bold-webfont.html") format("truetype"); font-weight: normal; font-style: normal; }
+@font-face { font-family: "proxima-nova-sbold"; src: url("../../../assets/fonts/proxima-nova-sbold-webfont.eot"); }
+@font-face { font-family: "proxima-nova-sbold"; src: url("../../../assets/fonts/proxima-nova-sbold-webfont.woff") format("woff"), url("../../../assets/fonts/proxima-nova-sbold-webfont.html") format("truetype"); font-weight: normal; font-style: normal; }
+@font-face { font-family: "droidserif-italic"; src: url("../../../assets/fonts/droidserif-italic-webfont.eot"); }
+@font-face { font-family: "droidserif-italic"; src: url("../../../assets/fonts/droidserif-italic-webfont.woff") format("woff"), url("../../../assets/fonts/droidserif-italic-webfont.html") format("truetype"); font-weight: normal; font-style: normal; }
+
+html {
+	margin: 0;
+	padding: 0;
+	background: #eeeeee url("../../../assets/img/bg.png");
+}
+
+body {
+	margin: 20px;
+    padding: 0;
+    color: #000000;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    line-height: 165%;
+    font-weight: normal;
+    background-color: transparent;
+   }
+
+#wrapper {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+#wrapper_inner {
+    padding: 40px 0;
+    overflow: hidden;
+    background: #ffffff;
+    -moz-box-shadow: 0 0 5px rgba(0, 0, 0, 0.19);
+    -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, 0.19);
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.19);
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+
+#headings_area {
+    padding: 10px 5% 0;
+}
+
+.text-center {
+    text-align: center;
+}
+
+h2 {
+    color: #f00;
+}
+
+.radio-inline, .checkbox-inline {
+    display: inline-block;
+    padding-left: 20px;
+    margin-bottom: 0;
+    font-weight: normal;
+    vertical-align: middle;
+    cursor: pointer;
+}
+
+#footer {
+    text-align: center;
+    padding: 20px 0 0;
+}
+
+#footer p.copyright {
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
+}
+
+#logo {
+    width: 300px;
+    float: right;
+    margin: 0 0 15px 80px;
+    padding: 0 5% 0px 0;
+    text-align: right;
+}
+
+#headings_area {
+    padding: 0px 0% 0px 30px;
+	margin-top: -25px;
+}
+
+#headings_area h1 {
+    margin: 0 0 22px;
+    color: #1869AE;
+    font-family: Arial Narrow, Helvetica, sans-serif;
+    font-size: 36px;
+    line-height: 36px;
+    font-weight: 300;
+}
+
+#headings_area h1 {
+    line-height: 36px !important;
+    color: #0F68A5 !important;
+}
+
+.label-registrasi {
+    font-weight: normal;
+    font-size: 16px;
+    margin-top: 5px;
+}
+}
